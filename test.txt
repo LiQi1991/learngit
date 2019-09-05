@@ -2,8 +2,13 @@ oh my god \
 Jmeter is not learning
 Docker is not learning
 
+<<<<<<< HEAD
 
 
 
 Master
 I'm so sad
+=======
+I'm so hungry
+I'm so sick
+>>>>>>> featurel
